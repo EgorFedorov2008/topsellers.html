@@ -6,6 +6,6 @@
   <link rel="href=https://yandex.ru/images/search?from=tabbar&text=средняя%20цена%20на%20котиков" />
 </head>
 <body>
-  {% url <"href=https://yandex.ru/images/search?from=tabbar&text=средняя%20цена%20на%20котиков"> %}.
+  <a "href=https://yandex.ru/images/search?from=tabbar&text=средняя%20цена%20на%20котиков" /a>
 </body>
 </html>
